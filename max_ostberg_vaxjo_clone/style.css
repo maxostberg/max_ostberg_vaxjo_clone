@@ -1,0 +1,77 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-wrapper{
+    max-height: 170px;
+    max-width: 100%;
+}
+
+.nav-top-row{
+    display: flex;
+    justify-content: space-between;
+    height: 100px;
+    width: 1150px;
+    margin: 0 auto;
+}
+
+.nav-top-left{
+    height: 100%;
+    width: 30%;
+}
+
+.nav-logo{
+    height: 100%;
+}
+
+.vaxjo-logo{
+    height: 100%;
+}
+
+.nav-top-right{
+    justify-content: flex-end;
+    height: 100%;
+    width: 40%;
+    
+}
+
+.buttons-list{
+    display: flex;
+    align-items: center;
+    height: 100%;
+    list-style-type: none;
+}
+
+.buttons{
+    margin: 5px;
+}
+
+.button-item{
+    padding: 25px;
+    margin: 0 10px;
+}
+
+
+.nav-bottom-row{
+    
+    width: 1150px;
+    height: 70px;
+    margin: 0 auto;
+}
+
+.main-menu{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 100%;
+    list-style-type: none;
+}
+
+
+
+
+
+    
+
